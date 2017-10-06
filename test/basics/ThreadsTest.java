@@ -2,6 +2,8 @@ package basics;
 
 import org.junit.Test;
 
+import basics.Threads;
+
 public class ThreadsTest {
 	
 	@Test
